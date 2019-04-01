@@ -140,3 +140,20 @@ h3 {
   background-color: #dc3545;
 }
 /*END GAME CSS*/
+
+/*HUD Heads Up Display*/
+#hud {
+  display: flex;
+  justify-content: space-between;s
+}
+
+.hud-prefix {
+  text-align: center;
+  font-size: 2rem;
+
+}
+
+.hud-main-text {
+  text-align: center;
+}
+/*End of HUD*/
